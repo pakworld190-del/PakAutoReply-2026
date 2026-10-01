@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">PakAutoReply-2026</string>
+    <string name="package_name">com.pakworld.pakautoreply</string>
+    <string name="version_name">1.9.4</string>
+    <string name="service_name">PakAutoReply Notification Service</string>
+
+    <string name="title_ai_reply">AI Reply &amp; Providers</string>
+    <string name="title_test_reply">Test Reply Sandbox</string>
+
+    <string name="ai_hero_tagline">Connect an AI assistant to send an artificial intelligence-based reply.</string>
+    <string name="powered_by_format">Powered by %s</string>
+
+    <string name="ai_provider">AI Provider</string>
+    <string name="api_key">API Key</string>
+    <string name="ai_model">AI Model</string>
+    <string name="teach_ai">Teach AI</string>
+    <string name="website">Website</string>
+    <string name="ai_settings">AI Settings</string>
+    <string name="ai_parameters">AI Parameters</string>
+
+    <string name="get_api_key">GET API KEY</string>
+    <string name="test_api_key">TEST API KEY</string>
+    <string name="save">SAVE</string>
+    <string name="cancel">CANCEL</string>
+
+    <string name="testing_key">Testing connection...</string>
+    <string name="connection_success">Connection successful.</string>
+    <string name="connection_failed">Unable to connect. Please check your API key.</string>
+    <string name="elevenlabs_restriction">ElevenLabs is currently configured for voice/agent capabilities. Text auto-reply is unavailable for this provider.</string>
+</resources>

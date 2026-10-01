@@ -1,0 +1,6 @@
+{
+  "name": "PakAutoReply-2026 - Multi AI Provider",
+  "description": "PakAutoReply-2026 (v1.9.4) Multi AI Provider System with dynamic API keys, real-time model discovery, and ReplyEngine priority orchestration.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
